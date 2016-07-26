@@ -121,4 +121,5 @@ if __name__ == "__main__":
 # import hackbright as hb
 # app = hb.Flask(__name__)
 # hb.connect_to_db(app)
+ # hb.get_grade_by_github_title('jhacks', 'Blockly')
 
